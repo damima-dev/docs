@@ -50,10 +50,10 @@
   ],
   "navigation": [
     {
-      "group": "Important Things",
+      "group": "Overview",
       "pages": [
         "introduction",
-        "quickstart",
+        "buying-a-product",
         "terms-of-service"
       ]
     },
