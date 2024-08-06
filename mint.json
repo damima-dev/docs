@@ -59,14 +59,9 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Product Information",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "product-information/rotech/drs-armodia-attendant-stations"
       ]
     },
     {
